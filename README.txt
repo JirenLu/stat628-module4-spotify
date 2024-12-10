@@ -1,4 +1,5 @@
 Code:
+Shinyapp:
 The whole interface of shinyapp mimics the design of spotify, with search, display, recommendation and play functions. 
 First of all, users can search for Podcasts or Episodes they are interested in, and the webpage will call spotify's api to search and show users the 6 closest options. 
 When the user selects the target Podcasts or Episodes, the webpage will display detailed information on the top left, including name, album cover, release date, duration, detailed description, etc. 
@@ -11,4 +12,4 @@ Cleaned data: data for modeling.
 Labeled data: data with two tags.
 
 Model:
-Codel for modeling.
+Code for modeling.
